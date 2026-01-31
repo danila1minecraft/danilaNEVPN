@@ -7,7 +7,7 @@
 2) В РЕПОЗИТОРИИ ЕСТЬ 2 TXT ФАЙЛА WHITE_CIDR И BLACK_VLESS советую поставить вместе.
    нажмите на файл затем нажмите "Raw" (кнопка справа вверху)
    скопируйте URL из адресной строки браузера
-   (ссылки будут выглядеть так: https://github.com/danila1minecraft/danilaNEVPN/blob/main/WHITE_CIDR.txt)
+   ( ссылки будут выглядеть так: https://raw.githubusercontent.com/danila1minecraft/danilaWTF/refs/heads/main/WHITE_CIDR.txt )
    
 3) ДАЛЕЕ ВСТРАВЛЯЕМ ССЫЛКИ В КЛИЕНТЫ И КАЙФУЕМ
 
